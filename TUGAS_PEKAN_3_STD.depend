@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1728387716 source:c:\users\dafnex\cppprojects\tugas_pekan_3_std\list.cpp
+	<iostream>
+	"list.h"
+
+1728387401 c:\users\dafnex\cppprojects\tugas_pekan_3_std\list.h
+	<iostream>
+
+1728390185 source:c:\users\dafnex\cppprojects\tugas_pekan_3_std\main.cpp
+	<iostream>
+	"list.h"
+
